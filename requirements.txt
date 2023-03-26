@@ -1,0 +1,1 @@
+ultimate_sitemap_parser == 1.26
